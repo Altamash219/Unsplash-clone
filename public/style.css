@@ -1,0 +1,47 @@
+.navbar-brand{
+    padding: 0;
+}
+.logo img{
+   height:50px;
+    width: auto;
+    padding: 0
+
+} 
+.main-content{
+    height: 400px;
+    background-image: url('../public/homepage.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.download-button{
+        
+    position: absolute;
+    top: 100%;
+    left: 100%;
+    transform: translate(-60px, -45px);
+    -ms-transform: translate(-50%, -50%);
+    z-index: 1000;
+    height: 40px;
+    width: 40px;
+    background-color: #08a708;
+}
+
+/* .image-container{
+    padding: 10px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+} */
+
+
+/* .glyphicon-arrow-down{
+    font-size: 40px;
+    background-color: rgb(25, 165, 25);
+    position: absolute;
+    right: 18px;
+    top: 540px;
+    z-index: 1000;
+} */
